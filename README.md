@@ -15,3 +15,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Molecules Problem: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-04+--+Molecules-Strategy.mp4) by Taylor Gentry and Piero Madar
 - [*Dirwatcher Project: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-15+--+Dirwatcher-Strategy.mp4) by David 'Stewy' Steward and Piero Madar
 - [*Intro to Virtualenv and Pipenv*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-1-22+--+Virtualenvs+and+pipenv.mp4) by Joe Kaufeld
+- [*Course Overview: Back End Python Foundations*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-23+--+Python+Foundations+Overview.mp4) by Piero Madar
