@@ -18,3 +18,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Course Overview: Back End Python Foundations*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-23+--+Python+Foundations+Overview.mp4) by Piero Madar
 - [*DOTM Search Assignment Walkthrough*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-02-21+--+demo+dotm+search.mp4) by Michelle Hoelzer
 - [*Basic Dictionaries in Python*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-03-28+--+Basic+Dictionaries+in+Python+by+Clint+Johnson+(SE4).mp4) by Clint Johnson (SE4)
+- [*Intro to OSI data model*](s3://videos.kenzie.academy/Software Engineering - Python/2019-05-20 OSI Model (Jon Taylor).mp4) by Jon Taylor, SE4
