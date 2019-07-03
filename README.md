@@ -20,3 +20,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Basic Dictionaries in Python*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-03-28+--+Basic+Dictionaries+in+Python+by+Clint+Johnson+(SE4).mp4) by Clint Johnson, SE3
 - [*Intro to OSI data model*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-05-20+--+The+OSI+Model.mp4) by Jon Taylor, SE4
 - [*cURL demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-06-25+cURL+demo+(Suravita+Roy+-+SE4).mp4) by Suravita Roy, SE4
+- [*Big-O Notation*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-07-02+Big-O+Notation+(Jon+Taylor+-+SE4).mp4) by Jon Taylor, SE4
