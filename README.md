@@ -21,3 +21,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Intro to OSI data model*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-05-20+--+The+OSI+Model.mp4) by Jon Taylor, SE4
 - [*cURL demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-06-25+cURL+demo+(Suravita+Roy+-+SE4).mp4) by Suravita Roy, SE4
 - [*Big-O Notation*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-07-02+Big-O+Notation+(Jon+Taylor+-+SE4).mp4) by Jon Taylor, SE4
+- [*PBJ: Extracting Readable Output from Data Structures in Python*](https://www.youtube.com/watch?v=kGqRnbkQHWc) by Eileen Tallman, SE4
