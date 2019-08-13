@@ -23,4 +23,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Big-O Notation*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-07-02+Big-O+Notation+(Jon+Taylor+-+SE4).mp4) by Jon Taylor, SE4
 - [*PBJ: Extracting Readable Output from Data Structures in Python*](https://www.youtube.com/watch?v=kGqRnbkQHWc) by Eileen Tallman, SE4
 - [*PBJ: Intro to Python -- Building a Hangman Game*](https://www.youtube.com/watch?v=R-Hi9ihBfOM) by Peter Mayor, SE4
-- [*grep and find demo*] (https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-09+grep+and+find+demo+(Shaquon+Kelley+-+SE5).mp4) by Shaquon Kelley, SE5
+- [*grep and find demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-09+grep+and+find+demo+(Shaquon+Kelley+-+SE5).mp4) by Shaquon Kelley, SE5
