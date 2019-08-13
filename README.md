@@ -24,4 +24,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*PBJ: Extracting Readable Output from Data Structures in Python*](https://www.youtube.com/watch?v=kGqRnbkQHWc) by Eileen Tallman, SE4
 - [*PBJ: Intro to Python -- Building a Hangman Game*](https://www.youtube.com/watch?v=R-Hi9ihBfOM) by Peter Mayor, SE4
 - [*grep and find demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-09+grep+and+find+demo+(Shaquon+Kelley+-+SE5).mp4) by Shaquon Kelley, SE5
-[*map and filter demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-8-13+map+and+filter+(Matt+Perry+-+SE5).mp4) by Matt Perrt, SE5
+[*map and filter demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-8-13+map+and+filter+(Matt+Perry+-+SE5).mp4) by Matt Perry, SE5
