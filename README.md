@@ -25,3 +25,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*PBJ: Intro to Python -- Building a Hangman Game*](https://www.youtube.com/watch?v=R-Hi9ihBfOM) by Peter Mayor, SE4
 - [*grep and find demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-09+grep+and+find+demo+(Shaquon+Kelley+-+SE5).mp4) by Shaquon Kelley, SE5
 - [*map and filter demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-8-13+map+and+filter+(Matt+Perry+-+SE5).mp4) by Matt Perry, SE5
+[*cURL demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-15+--+curl+demo+(Alec+Stephens+SE5)) by Alec Stephens, SE5
