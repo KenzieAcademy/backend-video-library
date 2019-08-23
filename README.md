@@ -26,3 +26,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*grep and find demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-09+grep+and+find+demo+(Shaquon+Kelley+-+SE5).mp4) by Shaquon Kelley, SE5
 - [*map and filter demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-8-13+map+and+filter+(Matt+Perry+-+SE5).mp4) by Matt Perry, SE5
 - [*cURL demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-15+--+curl+demo+(Alec+Stephens+SE5)) by Alec Stephens, SE5
+- [*TCP and UDP*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-8-20+--+TCP+and+UDP+(Nate+Lyttle+SE5).mp4) by Nate Lyttle, SE5
