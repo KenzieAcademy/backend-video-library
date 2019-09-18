@@ -29,3 +29,6 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*TCP and UDP*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-8-20+--+TCP+and+UDP+(Nate+Lyttle+SE5).mp4) by Nate Lyttle, SE5
 - [*Ping and Traceroute*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-29+--+Ping+and+Traceroute+-+(Jacob+Walker+SE5).mp4) by Jacob Walker, SE5
 - [*"locals()" and "globals()"*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-03+--+globals+and+locals+(Haydar+Kassim+SE5).mp4) by Haydar Kassim, SE5
+- [*zip*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-05+--+zip+(Swavae+Miller+SE5).mp4) by Swavae Miller, SE5
+- [*hash*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-12+--+hash+(Elizabeth+Scheidt+SE5)+.mp4) by Elizabeth Scheidt, SE5
+- [*raise*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-17+--+raise+(Patterson+Day+SE5).mp4) by Patterson Day, SE5
