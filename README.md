@@ -32,3 +32,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*zip*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-05+--+zip+(Swavae+Miller+SE5).mp4) by Swavae Miller, SE5
 - [*hash*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-12+--+hash+(Elizabeth+Scheidt+SE5)+.mp4) by Elizabeth Scheidt, SE5
 - [*raise*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-17+--+raise+(Patterson+Day+SE5).mp4) by Patterson Day, SE5
+- [*DNS*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-19+--+DNS+(Ethan+Ebel+SE5).mp4) by Ethan Ebel, SE5
