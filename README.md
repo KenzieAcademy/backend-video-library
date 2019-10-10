@@ -37,3 +37,5 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*logging*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-09-26+--+logging+(Tamekia+Nelson+SE5).mp4) by Tamekia Nelson, SE5
 - [*Big O*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-03+--+Big+O+(Dennis+Christenson+SE5).mp4) by Dennis Christenson, SE5
 - [*Building a Dictionary with Classes*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-07+--+Building+a+Dictionary+with+Classes+(Piero).mp4) by Piero
+- [*Memoization*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-08+--+Memoization+(Will+Harris+SE5).mp4) by Will Harris, SE5
+- [*SOLID design principles*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-10+--+SOLID+design+principles+(Marsha+Williams+SE5).mp4) by Marsha Williams, SE5
