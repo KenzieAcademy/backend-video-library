@@ -40,3 +40,5 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Memoization*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-08+--+Memoization+(Will+Harris+SE5).mp4) by Will Harris, SE5
 - [*SOLID design principles*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-10+--+SOLID+design+principles+(Marsha+Williams+SE5).mp4) by Marsha Williams, SE5
 - [*Tim Harvey (Netflix): Expect the Unexpected*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Guest+Speakers/2019-10-09+Tim+Harvey+Netflix.mp4)
+- [*builtin attr methods*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-15+--+builtin+attr+methods+(Mark+Harsley+SE5).mp4) by Mark Harsley, SE5
+- [*top*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-17+--+top+(Andrew+Christensen+SE5).mp4) by Andrew Christensen, SE5
