@@ -14,7 +14,7 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Scopes, Declarations, Classes*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-10-15+--+Scope+Issues%2C+Declaration%2C+and+Classes.m4v) by Joe Kaufeld.
 - [*Molecules Problem: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-04+--+Molecules-Strategy.mp4) by Taylor Gentry and Piero Madar
 - [*Dirwatcher Project: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-15+--+Dirwatcher-Strategy.mp4) by David 'Stewy' Steward and Piero Madar
-- [*Intro to Virtualenv and Pipenv*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-1-22+--+Virtualenvs+and+pipenv.mp4) by Joe Kaufeld
+- [*Intro to Virtualenv and Pipenv*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-22+--+Virtualenvs+and+pipenv.mp4) by Joe Kaufeld
 - [*Course Overview: Back End Python Foundations*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-23+--+Python+Foundations+Overview.mp4) by Piero Madar
 - [*DOTM Search Assignment Walkthrough*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-02-21+--+demo+dotm+search.mp4) by Michelle Hoelzer
 - [*Basic Dictionaries in Python*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-03-28+--+Basic+Dictionaries+in+Python+by+Clint+Johnson+(SE4).mp4) by Clint Johnson, SE3
