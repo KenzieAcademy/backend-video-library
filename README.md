@@ -24,7 +24,7 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*PBJ: Extracting Readable Output from Data Structures in Python*](https://www.youtube.com/watch?v=kGqRnbkQHWc) by Eileen Tallman, SE4
 - [*PBJ: Intro to Python -- Building a Hangman Game*](https://www.youtube.com/watch?v=R-Hi9ihBfOM) by Peter Mayor, SE4
 - [*grep and find demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-09+grep+and+find+demo+(Shaquon+Kelley+-+SE5).mp4) by Shaquon Kelley, SE5
-- [*map and filter demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-8-13+map+and+filter+(Matt+Perry+-+SE5).mp4) by Matt Perry, SE5
+- [*map and filter demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-13+--+map+and+filter+(Matt+Perry+-+SE5).mp4) by Matt Perry, SE5
 - [*cURL demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-15+--+curl+demo+(Alec+Stephens+SE5).mp4) by Alec Stephens, SE5
 - [*TCP and UDP*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-20+--+TCP+and+UDP+(Nate+Lyttle+SE5).mp4) by Nate Lyttle, SE5
 - [*Ping and Traceroute*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-08-29+--+Ping+and+Traceroute+-+(Jacob+Walker+SE5).mp4) by Jacob Walker, SE5
