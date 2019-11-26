@@ -13,7 +13,7 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Twitterclone Demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-12-05+--+demo_benchmarking.mp4) A walkthrough of the Twitterclone assignment, by Joe Kaufeld.
 - [*Scopes, Declarations, Classes*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-10-15+--+Scope+Issues%2C+Declaration%2C+and+Classes.m4v) by Joe Kaufeld.
 - [*Molecules Problem: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-04+--+Molecules-Strategy.mp4) by Taylor Gentry and Piero Madar
-- [*Dirwatcher Project: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-15+--+Dirwatcher-Strategy.mp4) by David 'Stewy' Steward and Piero Madar
+- [*Dirwatcher Project: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-15+--+Dirwatcher-Strategy.mp4) by David 'Stewy' Stewart and Piero Madar
 - [*Intro to Virtualenv and Pipenv*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-22+--+Virtualenvs+and+pipenv.mp4) by Joe Kaufeld
 - [*Course Overview: Back End Python Foundations*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-23+--+Python+Foundations+Overview.mp4) by Piero Madar
 - [*DOTM Search Assignment Walkthrough*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-02-21+--+demo+dotm+search.mp4) by Michelle Hoelzer
@@ -42,3 +42,4 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Tim Harvey (Netflix): Expect the Unexpected*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Guest+Speakers/2019-10-09+Tim+Harvey+Netflix.mp4)
 - [*builtin attr methods*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-15+--+builtin+attr+methods+(Mark+Harsley+SE5).mp4) by Mark Harsley, SE5
 - [*top*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-17+--+top+(Andrew+Christensen+SE5).mp4) by Andrew Christensen, SE5
+- [*cURL*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-11-22+--+cURL+(Enrique+Galindo+SE6).mp4) by Enrique Galindo, SE6
