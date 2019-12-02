@@ -10,7 +10,7 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*Django Forms and Views*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-11-26+--+Django+Forms+and+Views.mp4) by Joe Kaufeld.
 - [*Student Spotlight: attr methods*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-12-04+--+demo_python_attr_methods.mp4) A brief tour of Python's built-in attr methods, by Patrick Hanson.
 - [*Benchmarking and Profiling*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-12-05+--+demo_benchmarking.mp4) Profiling the performance of a poorly written anagram program, by Bob Hunt.
-- [*Twitterclone Demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-12-05+--+demo_benchmarking.mp4) A walkthrough of the Twitterclone assignment, by Joe Kaufeld.
+- [*Twitterclone Demo*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-12-3+--+Twitterclone+Demo.mp4) A walkthrough of the Twitterclone assignment, by Joe Kaufeld.
 - [*Scopes, Declarations, Classes*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2018-10-15+--+Scope+Issues%2C+Declaration%2C+and+Classes.m4v) by Joe Kaufeld.
 - [*Molecules Problem: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-04+--+Molecules-Strategy.mp4) by Taylor Gentry and Piero Madar
 - [*Dirwatcher Project: A strategy*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-01-15+--+Dirwatcher-Strategy.mp4) by David 'Stewy' Stewart and Piero Madar
