@@ -43,3 +43,5 @@ This library contains links to demo and assignment solution walk-through videos,
 - [*builtin attr methods*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-15+--+builtin+attr+methods+(Mark+Harsley+SE5).mp4) by Mark Harsley, SE5
 - [*top*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-10-17+--+top+(Andrew+Christensen+SE5).mp4) by Andrew Christensen, SE5
 - [*cURL*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-11-22+--+cURL+(Enrique+Galindo+SE6).mp4) by Enrique Galindo, SE6
+- [*range*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-11-07++--+range+(Bryan+Fernandez+SE6).mp4) by Bryan Fernandez, SE6
+- [*zip*](https://s3.us-east-2.amazonaws.com/videos.kenzie.academy/Software+Engineering+-+Python/2019-11-19+--+zip+(Jake+Hershey+SE6).mp4) by Jake Hershey, SE6
